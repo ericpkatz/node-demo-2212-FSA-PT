@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "processScores": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpkatz/node-demo-2212-FSA-PT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpkatz/node-demo-2212-FSA-PT/issues"
+  },
+  "homepage": "https://github.com/ericpkatz/node-demo-2212-FSA-PT#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
